@@ -136,6 +136,24 @@
   <data name="Chart_NoData" xml:space="preserve">
     <value>Keine Daten</value>
   </data>
+  <data name="Chat_Deleted_Message" xml:space="preserve">
+    <value>Diese Nachricht wurde gelöscht.</value>
+  </data>
+  <data name="Chat_File_Action_Download" xml:space="preserve">
+    <value>Herunterladen</value>
+  </data>
+  <data name="Chat_Message_Action_Copy" xml:space="preserve">
+    <value>Kopieren</value>
+  </data>
+  <data name="Chat_Message_Action_Reply" xml:space="preserve">
+    <value>Antworten</value>
+  </data>
+  <data name="Chat_Message_Copied" xml:space="preserve">
+    <value>Nachricht in die Zwischenablage kopiert.</value>
+  </data>
+  <data name="Chat_Message_Download_All" xml:space="preserve">
+    <value>Alle herunterladen</value>
+  </data>
   <data name="ColorAlpha_Label" xml:space="preserve">
     <value>A</value>
   </data>
@@ -344,7 +362,7 @@
     <value>Zeile darunter hinzufügen</value>
   </data>
   <data name="Editor_AI_Prompt_Command_Fix" xml:space="preserve">
-  <value>Korrigiere eventuelle Fehler im folgenden Text, ohne dessen ursprüngliche Bedeutung und Absicht zu verändern. Gib eine einfache Zeichenkette aus. Gib kein HTML aus!</value>
+    <value>Korrigiere eventuelle Fehler im folgenden Text, ohne dessen ursprüngliche Bedeutung und Absicht zu verändern. Gib eine einfache Zeichenkette aus. Gib kein HTML aus!</value>
   </data>
   <data name="Editor_AI_Prompt_Command_Length_Longer" xml:space="preserve">
     <value>Verlängere den folgenden Text, ohne dessen ursprüngliche Bedeutung und Absicht zu verändern. Gib eine einfache Zeichenkette aus. Gib kein HTML aus!</value>
@@ -387,6 +405,12 @@
   </data>
   <data name="Editor_AI_Prompt_OutputView_Replace" xml:space="preserve">
     <value>Ersetzen</value>
+  </data>
+  <data name="Editor_AI_Prompt_PromptView_ContentButton" xml:space="preserve">
+    <value>Mit Inhalt verwenden.</value>
+  </data>
+  <data name="Editor_AI_Prompt_PromptView_SelectionButton" xml:space="preserve">
+    <value>Mit Auswahl verwenden.</value>
   </data>
   <data name="Editor_AlignCenter" xml:space="preserve">
     <value>Text zentrieren</value>
